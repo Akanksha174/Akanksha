@@ -23,7 +23,7 @@ const Akanksha = {
 <p align="left">
 <a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshatwt" height="30" width="40" /></a>
 <a href="https://instagram.com/__akankshaa_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshalal._" height="30" width="40" /></a>
-<a href="https://https://leetcode.com/u/akanksha59/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eshaalal" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/akanksha59/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eshaalal" height="30" width="40" /></a>
 
 </p>
 
