@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Akanksha!;I'm+a+learning+developer...)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZyeTdjNnk2ejlqbjF1cmtydzE0b3cwbXVubjY3bmU3eXc3ZzdybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBSQu6cuMoBZMC6daR/giphy.gif">
+  <img width="250" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZyeTdjNnk2ejlqbjF1cmtydzE0b3cwbXVubjY3bmU3eXc3ZzdybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBSQu6cuMoBZMC6daR/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fsoftware-incubator%2Fa-definitive-guide-for-web-development-889e6e63b1a7&psig=AOvVaw1JyCd4qQbs4S2WfyZKiZXj&ust=1725883674000000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjbgvGns4gDFQAAAAAdAAAAABAE)">
 </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalal&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalal" /> </p>
  -->
