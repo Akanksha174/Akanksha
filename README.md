@@ -3,9 +3,6 @@
 <p align="center">
   <img width="250" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*h-FuIYtxJxoQzDrE_E3QRw.gif">
 </p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalal&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalal" /> </p>
- -->
-
 ## A little more about me... 
 
 ```javascript
@@ -21,7 +18,7 @@ const Akanksha = {
 ## Profiles 
 <br>
 <p align="left">
-<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshatwt" height="30" width="40" /></a>
+<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://instagram.com/__akankshaa_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshalal._" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/akanksha59/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eshaalal" height="30" width="40" /></a>
 
