@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Akanksha!;I'm+a+learning+developer...)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="250" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*h-FuIYtxJxoQzDrE_E3QRw.gif">
+  <img width="250" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620879089779/_yuMWLuic.gif?auto=format,compress&gif-q=60&format=webms">
 </p>
 ## A little more about me... 
 
