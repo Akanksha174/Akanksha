@@ -3,6 +3,8 @@
 <p align="center">
   <img width="250" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620879089779/_yuMWLuic.gif?auto=format,compress&gif-q=60&format=webms">
 </p> 
+<br>
+## Skills Summary 
 
 ```javascript
 const Akanksha = {
