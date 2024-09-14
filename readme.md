@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Akanksha!;I'm+a+learning+developer...)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="250" src="[https://cdn.hashnode.com/res/hashnode/image/upload/v1620879089779/_yuMWLuic.gif?auto=format,compress&gif-q=60&format=webms](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV3ZjRyMWNuM2tqMHl5ejV3eW4wZDEzMGtxeG9pYmJheHdlM25wOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp)">
+  <img class="giphy-gif-img giphy-img-loaded" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV3ZjRyMWNuM2tqMHl5ejV3eW4wZDEzMGtxeG9pYmJheHdlM25wOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="100%" alt="Woman Coding GIF by Pluralsight" style="background: rgba(0, 0, 0, 0);">
 </p> 
 <br>
 
