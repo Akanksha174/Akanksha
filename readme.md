@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+Akanksha+here+passionate+developer+in+progress...)](https://git.io/typing-svg)
 
+
 <p align="center">
   <img class="giphy-gif-img giphy-img-loaded" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV3ZjRyMWNuM2tqMHl5ejV3eW4wZDEzMGtxeG9pYmJheHdlM25wOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%" height="50%" alt="Woman Coding GIF by Pluralsight" style="background: rgba(0, 0, 0, 0);">
 </p> 
