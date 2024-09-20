@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img class="giphy-gif-img giphy-img-loaded" src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY4MTU0NDYsIm5iZiI6MTcyNjgxNTE0NiwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIwVDA2NTIyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwZGIyNWQ5MGFjZjZkMzFlOWJjNzE4YzZhNzNhOWUwMDM3YjE1MDFhNTNmZGEzZjI1ZWEwM2E2ZTA5Mjk2YmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aWulrinMFshqtbjAxQl_IOJt1zHsZpU6SQZDK1XneaI" width="35%" height="35%" alt="Woman Coding GIF by Pluralsight" style="background: rgba(0, 0, 0, 0); transform: rotate(180deg); transform-origin: center;">
+  <img class="giphy-gif-img giphy-img-loaded" src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" style="background: rgba(0, 0, 0, 0); transform: rotate(180deg); transform-origin: center;">
 </p> 
 <br>
 
