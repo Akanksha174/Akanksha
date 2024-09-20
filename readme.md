@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img class="giphy-gif-img giphy-img-loaded" src="https://miro.medium.com/v2/resize:fit:1200/1*tZl19oAzRw300ociN47vvg.gif" width="35%" height="35%" alt="Woman Coding GIF by Pluralsight" style="background: rgba(0, 0, 0, 0);">
+  <img class="giphy-gif-img giphy-img-loaded" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="35%" height="35%" alt="Woman Coding GIF by Pluralsight" style="background: rgba(0, 0, 0, 0);">
 </p> 
 <br>
 
