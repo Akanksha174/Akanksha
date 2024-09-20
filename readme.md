@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img class="giphy-gif-img giphy-img-loaded" src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" style="background: rgba(0, 0, 0, 0); transform: rotate(180deg); transform-origin: center;">
+  <img class="giphy-gif-img giphy-img-loaded" src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" style="background: rgba(0, 0, 0, 0); transform: rotate(180deg); transform-origin: center; width: 35px; height: 40px">
 </p> 
 <br>
 
